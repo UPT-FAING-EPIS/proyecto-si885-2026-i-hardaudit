@@ -13,7 +13,7 @@ Aunque el proyecto nace para laboratorios académicos, su aplicación en el sect
 *   **Toma de Decisiones Basada en Datos:** Permite a los gerentes de TI planificar las compras y renovaciones tecnológicas con reportes visuales exactos en tiempo real, en lugar de basarse en suposiciones.
 *   **Reasignación Inteligente de Equipos:** Maximiza el retorno de inversión (ROI) al identificar si una computadora que ya no sirve para un área pesada (ej. Arquitectura) sigue siendo 100% óptima para tareas de otra área (ej. Contabilidad o Administración), alargando su vida útil.
 
-*   
+
 ## 3. Descripción General
 El proyecto consiste en una plataforma bajo una arquitectura cliente-servidor diseñada para auditar el hardware de las computadoras de un laboratorio académico de forma automatizada. 
 
